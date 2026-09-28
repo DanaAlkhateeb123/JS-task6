@@ -1,0 +1,12 @@
+
+[{"name":"apple", "price":"1","available":false},
+
+    {"name":"burger", "price":"6","available":true},
+
+    {"name":"candy", "price":"3","available":true},
+    
+    {"name":"pepsi", "price":"1","available":true},
+   
+    {"name":"potato", "price":"2","available":true}]
+
+
